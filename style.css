@@ -1,0 +1,10 @@
+.text-love {
+  position: absolute;
+  bottom: 60px;
+  width: 100%;
+  text-align: center;
+  color: #ff4f8b;
+  font-size: 28px;
+  font-family: Arial, sans-serif;
+  text-shadow: 0 0 15px #ff2d75;
+}
